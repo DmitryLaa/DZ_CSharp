@@ -1,0 +1,15 @@
+E:\GB\DZ09\Ex66\obj\MCD\Debug\net6.0\Ex66.csproj.AssemblyReference.cache
+E:\GB\DZ09\Ex66\obj\MCD\Debug\net6.0\Ex66.GeneratedMSBuildEditorConfig.editorconfig
+E:\GB\DZ09\Ex66\obj\MCD\Debug\net6.0\Ex66.AssemblyInfoInputs.cache
+E:\GB\DZ09\Ex66\obj\MCD\Debug\net6.0\Ex66.AssemblyInfo.cs
+E:\GB\DZ09\Ex66\obj\MCD\Debug\net6.0\Ex66.csproj.CoreCompileInputs.cache
+E:\GB\DZ09\Ex66\bin\MCD\Debug\net6.0\Ex66.exe
+E:\GB\DZ09\Ex66\bin\MCD\Debug\net6.0\Ex66.deps.json
+E:\GB\DZ09\Ex66\bin\MCD\Debug\net6.0\Ex66.runtimeconfig.json
+E:\GB\DZ09\Ex66\bin\MCD\Debug\net6.0\Ex66.dll
+E:\GB\DZ09\Ex66\bin\MCD\Debug\net6.0\Ex66.pdb
+E:\GB\DZ09\Ex66\obj\MCD\Debug\net6.0\Ex66.dll
+E:\GB\DZ09\Ex66\obj\MCD\Debug\net6.0\refint\Ex66.dll
+E:\GB\DZ09\Ex66\obj\MCD\Debug\net6.0\Ex66.pdb
+E:\GB\DZ09\Ex66\obj\MCD\Debug\net6.0\Ex66.genruntimeconfig.cache
+E:\GB\DZ09\Ex66\obj\MCD\Debug\net6.0\ref\Ex66.dll

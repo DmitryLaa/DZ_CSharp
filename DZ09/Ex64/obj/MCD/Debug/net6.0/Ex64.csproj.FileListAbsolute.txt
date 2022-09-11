@@ -1,0 +1,15 @@
+E:\GB\DZ09\Ex64\bin\MCD\Debug\net6.0\Ex64.exe
+E:\GB\DZ09\Ex64\bin\MCD\Debug\net6.0\Ex64.deps.json
+E:\GB\DZ09\Ex64\bin\MCD\Debug\net6.0\Ex64.runtimeconfig.json
+E:\GB\DZ09\Ex64\bin\MCD\Debug\net6.0\Ex64.dll
+E:\GB\DZ09\Ex64\bin\MCD\Debug\net6.0\Ex64.pdb
+E:\GB\DZ09\Ex64\obj\MCD\Debug\net6.0\Ex64.csproj.AssemblyReference.cache
+E:\GB\DZ09\Ex64\obj\MCD\Debug\net6.0\Ex64.GeneratedMSBuildEditorConfig.editorconfig
+E:\GB\DZ09\Ex64\obj\MCD\Debug\net6.0\Ex64.AssemblyInfoInputs.cache
+E:\GB\DZ09\Ex64\obj\MCD\Debug\net6.0\Ex64.AssemblyInfo.cs
+E:\GB\DZ09\Ex64\obj\MCD\Debug\net6.0\Ex64.csproj.CoreCompileInputs.cache
+E:\GB\DZ09\Ex64\obj\MCD\Debug\net6.0\Ex64.dll
+E:\GB\DZ09\Ex64\obj\MCD\Debug\net6.0\refint\Ex64.dll
+E:\GB\DZ09\Ex64\obj\MCD\Debug\net6.0\Ex64.pdb
+E:\GB\DZ09\Ex64\obj\MCD\Debug\net6.0\Ex64.genruntimeconfig.cache
+E:\GB\DZ09\Ex64\obj\MCD\Debug\net6.0\ref\Ex64.dll
